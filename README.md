@@ -12,19 +12,16 @@ Klasyczna gra zręcznościowa stworzona w silniku Unity. Projekt ten powstał je
 
 🛠️ Technologie
 
-    Unity Engine
-
-    C#
+- Unity Engine
+- C#
 
 🚀 Jak zagrać (Instalacja)
 
 Gra nie wymaga skomplikowanej instalacji. Aby w nią zagrać, wykonaj poniższe kroki:
 
-    Pobierz plik .zip z grą z zakładki <Code>.
-
-    Wypakuj pobrane archiwum w dogodnym dla siebie miejscu na dysku.
-
-    Uruchom plik wykonywalny Gun Shooter, aby rozpocząć rozgrywkę.
+- Pobierz plik .zip z grą z zakładki <Code>.
+- Wypakuj pobrane archiwum w dogodnym dla siebie miejscu na dysku.
+- Uruchom plik wykonywalny Gun Shooter, aby rozpocząć rozgrywkę.
 
 🇬🇧 English Version
 
@@ -34,24 +31,19 @@ A classic arcade game developed using the Unity engine. This project was created
 
 🌟 Features
 
-    5 Action-Packed Levels: Navigate through various stages to complete the game.
-
-    Collectibles System: Gather keys and gems scattered across the maps to unlock progression to the next levels.
-
-    Epic Boss Battle: Face off against the final boss at the very end of the journey.
+- 5 Action-Packed Levels: Navigate through various stages to complete the game.
+- Collectibles System: Gather keys and gems scattered across the maps to unlock progression to the next levels.
+- Epic Boss Battle: Face off against the final boss at the very end of the journey.
 
 🛠️ Technologies Built With
 
-    Unity Engine
-
-    C#
+- Unity Engine
+- C#
 
 🚀 How to Play
 
 The game is easy to run and requires no complex installation:
 
-    Download the the .zip file from the <Code> section.
-
-    Extract the downloaded archive to your preferred location on your drive.
-
-    Run the Gun Shooter executable file to launch the game.
+- Download the the .zip file from the <Code> section.
+- Extract the downloaded archive to your preferred location on your drive.
+- Run the Gun Shooter executable file to launch the game.
