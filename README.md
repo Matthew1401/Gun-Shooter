@@ -6,11 +6,9 @@ Klasyczna gra zręcznościowa stworzona w silniku Unity. Projekt ten powstał je
 
 🌟 Główne cechy
 
-    5 zróżnicowanych poziomów: Przejdź przez wszystkie etapy, aby ukończyć grę.
-
-    System znajdziek: Zbieraj klucze i klejnoty rozsiane po mapach, aby odblokować możliwość przejścia do kolejnych poziomów.
-
-    Walka z bossem: Zmierz się z ostatecznym przeciwnikiem na samym końcu rozgrywki.
+- 5 zróżnicowanych poziomów: Przejdź przez wszystkie etapy, aby ukończyć grę.
+- System znajdziek: Zbieraj klucze i klejnoty rozsiane po mapach, aby odblokować możliwość przejścia do kolejnych poziomów.
+- Walka z bossem: Zmierz się z ostatecznym przeciwnikiem na samym końcu rozgrywki.
 
 🛠️ Technologie
 
@@ -22,7 +20,7 @@ Klasyczna gra zręcznościowa stworzona w silniku Unity. Projekt ten powstał je
 
 Gra nie wymaga skomplikowanej instalacji. Aby w nią zagrać, wykonaj poniższe kroki:
 
-    Pobierz plik .zip z grą z sekcji Releases.
+    Pobierz plik .zip z grą z zakładki <Code>.
 
     Wypakuj pobrane archiwum w dogodnym dla siebie miejscu na dysku.
 
@@ -52,7 +50,7 @@ A classic arcade game developed using the Unity engine. This project was created
 
 The game is easy to run and requires no complex installation:
 
-    Download the latest .zip file from the repository.
+    Download the the .zip file from the <Code> section.
 
     Extract the downloaded archive to your preferred location on your drive.
 
