@@ -1,7 +1,9 @@
 🇵🇱 Wersja Polska
+
 Gun-Shooter 🎮
 
 Klasyczna gra zręcznościowa stworzona w silniku Unity. Projekt ten powstał jeszcze w czasach, kiedy uczęszczałem do szkoły podstawowej, stanowiąc moje wczesne kroki w świecie programowania i świata analitycznego.
+
 🌟 Główne cechy
 
     5 zróżnicowanych poziomów: Przejdź przez wszystkie etapy, aby ukończyć grę.
@@ -26,10 +28,12 @@ Gra nie wymaga skomplikowanej instalacji. Aby w nią zagrać, wykonaj poniższe 
 
     Uruchom plik wykonywalny Gun Shooter, aby rozpocząć rozgrywkę.
 
-🇬🇧 Wersja Angielska (English Version)
+🇬🇧 English Version
+
 Gun-Shooter 🎮
 
 A classic arcade game developed using the Unity engine. This project was created during my primary school years, marking my early steps into programming and analytical thinking.
+
 🌟 Features
 
     5 Action-Packed Levels: Navigate through various stages to complete the game.
