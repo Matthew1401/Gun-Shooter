@@ -2,7 +2,7 @@
 
 ## 🇵🇱 Wersja Polska
 
-Klasyczna zręcznościówka z czasów mojej podstawówki. Stawiałem wtedy swoje pierwsze kroki w kodowaniu. Kod łapałem na różnych forach, czy tutorialach, trochę sam modyfikowałem, choć nie rozumiałem całej składni. Wrzucam tutaj, jako projekt i dowód, że od małego pracuje z kodem i nie jest ona dla mnie czymś nowym.
+Klasyczna zręcznościówka z czasów mojej podstawówki. Stawiałem wtedy swoje pierwsze kroki w kodowaniu. Kod łapałem na różnych forach czy z tutoriali, trochę sam modyfikowałem, choć nie rozumiałem całej składni. Wrzucam to tutaj jako projekt i dowód na to, że od małego pracuję z kodem i nie jest to dla mnie nic nowego.
 
 - Cechy gry: 5 poziomów, zbieranie kluczy i klejnotów, finałowa walka z bossem.
 - Technologie: Unity Engine, C#
