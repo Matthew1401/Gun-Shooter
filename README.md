@@ -19,7 +19,7 @@ Klasyczna gra zręcznościowa stworzona w silniku Unity. Projekt ten powstał je
 
 Gra nie wymaga skomplikowanej instalacji. Aby w nią zagrać, wykonaj poniższe kroki:
 
-- Pobierz plik .zip z grą z zakładki <Code>.
+- Pobierz plik .zip z grą z zakładki "Code" powyżej.
 - Wypakuj pobrane archiwum w dogodnym dla siebie miejscu na dysku.
 - Uruchom plik wykonywalny Gun Shooter, aby rozpocząć rozgrywkę.
 
@@ -44,6 +44,6 @@ A classic arcade game developed using the Unity engine. This project was created
 
 The game is easy to run and requires no complex installation:
 
-- Download the the .zip file from the <Code> section.
+- Download the the .zip file from the "Code" section.
 - Extract the downloaded archive to your preferred location on your drive.
 - Run the Gun Shooter executable file to launch the game.
