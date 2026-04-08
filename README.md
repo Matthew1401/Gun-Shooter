@@ -1,49 +1,17 @@
-🇵🇱 Wersja Polska
+# Gun-Shooter 🎮
 
-Gun-Shooter 🎮
+## 🇵🇱 Wersja Polska
 
-Klasyczna gra zręcznościowa stworzona w silniku Unity. Projekt ten powstał jeszcze w czasach, kiedy uczęszczałem do szkoły podstawowej, stanowiąc moje wczesne kroki w świecie programowania i świata analitycznego.
+Klasyczna zręcznościówka z czasów mojej podstawówki. Stawiałem wtedy swoje pierwsze kroki w kodowaniu. Kod łapałem na różnych forach, czy tutorialach, trochę sam modyfikowałem, choć nie rozumiałem całej składni. Wrzucam tutaj, jako projekt i dowód, że od małego pracuje z kodem i nie jest ona dla mnie czymś nowym.
 
-🌟 Główne cechy
+- Cechy gry: 5 poziomów, zbieranie kluczy i klejnotów, finałowa walka z bossem.
+- Technologie: Unity Engine, C#
+- Uruchomienie: Pobierz .zip z zakładki "Code", wypakuj i odpal plik wykonywalny Gun Shooter.
 
-- 5 zróżnicowanych poziomów: Przejdź przez wszystkie etapy, aby ukończyć grę.
-- System znajdziek: Zbieraj klucze i klejnoty rozsiane po mapach, aby odblokować możliwość przejścia do kolejnych poziomów.
-- Walka z bossem: Zmierz się z ostatecznym przeciwnikiem na samym końcu rozgrywki.
+## 🇬🇧 English Version
 
-🛠️ Technologie
+A classic arcade game from my primary school days. I was taking my first steps in coding back then. I would grab code from various forums or tutorials and tweak it a bit myself, even though I didn't fully understand the syntax. I'm dropping it here as a showcase and proof that I've been working with code since I was a kid, so it's nothing new to me.
 
-- Unity Engine
-- C#
-
-🚀 Jak zagrać (Instalacja)
-
-Gra nie wymaga skomplikowanej instalacji. Aby w nią zagrać, wykonaj poniższe kroki:
-
-- Pobierz plik .zip z grą z zakładki "Code" powyżej.
-- Wypakuj pobrane archiwum w dogodnym dla siebie miejscu na dysku.
-- Uruchom plik wykonywalny Gun Shooter, aby rozpocząć rozgrywkę.
-
-🇬🇧 English Version
-
-Gun-Shooter 🎮
-
-A classic arcade game developed using the Unity engine. This project was created during my primary school years, marking my early steps into programming and analytical thinking.
-
-🌟 Features
-
-- 5 Action-Packed Levels: Navigate through various stages to complete the game.
-- Collectibles System: Gather keys and gems scattered across the maps to unlock progression to the next levels.
-- Epic Boss Battle: Face off against the final boss at the very end of the journey.
-
-🛠️ Technologies Built With
-
-- Unity Engine
-- C#
-
-🚀 How to Play
-
-The game is easy to run and requires no complex installation:
-
-- Download the the .zip file from the "Code" section.
-- Extract the downloaded archive to your preferred location on your drive.
-- Run the Gun Shooter executable file to launch the game.
+- Features: 5 levels, key & gem collecting, final boss battle.
+- Tech Stack: Unity Engine, C#
+- How to run: Download the .zip from the "Code" section, extract it, and launch the Gun Shooter executable.
